@@ -8,6 +8,7 @@
  *
  * @author amrin
  */
+package sheridan;
 public class student {
     private static int numOfStudents = 0;
     private final String id;
