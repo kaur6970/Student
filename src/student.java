@@ -14,6 +14,7 @@ public class student {
     private final String name;
     private int grade;
     private int String parents;
+    
     public satic String getParents() {
         return parents;
     }
