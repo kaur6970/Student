@@ -13,6 +13,10 @@ public class student {
     private final String id;
     private final String name;
     private int grade;
+    private int String parents;
+    public satic String getParents() {
+        return parents;
+    }
     
     student(String id, String name, int grade){
         this.id = id;
