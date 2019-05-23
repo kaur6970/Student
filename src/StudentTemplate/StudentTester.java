@@ -18,7 +18,7 @@ public class StudentTester {
         s2.setName("joban");
         System.out.println(s2.getName());
         Student s3 = new Student();
-        s3.setName("jaskirat");
+        s3.setName("jas");
         System.out.println(s3.getName());
         
         Student[] list = new Student[3];
